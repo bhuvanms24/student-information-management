@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Bhuvan M S",
+    "email": "bhuvan@example.com",
+    "course": "MCA",
+    "age": 21
+  },
+  {
+    "id": 2,
+    "name": "Rahul Kumar",
+    "email": "rahul@example.com",
+    "course": "MCA",
+    "age": 22
+  },
+  {
+    "id": 3,
+    "name": "Anjali Sharma",
+    "email": "anjali@example.com",
+    "course": "BCA",
+    "age": 21
+  }
+]
